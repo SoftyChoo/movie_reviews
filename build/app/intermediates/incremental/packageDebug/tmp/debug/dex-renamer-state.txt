@@ -1,0 +1,4 @@
+#Wed Jun 21 15:57:38 KST 2023
+base.0=/Users/minsuchoo/Desktop/Flutter/movie_reviews/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

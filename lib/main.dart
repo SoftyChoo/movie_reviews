@@ -78,7 +78,7 @@ class HomePage extends StatelessWidget {
             padding: const EdgeInsets.all(8.0),
             child: TextField(
               decoration: InputDecoration(
-                hintText: "영화 제목을 검색해주세요.",
+                hintText: "영화 제목을 검색해주세요",
                 suffixIcon: IconButton(
                   icon: Icon(Icons.search),
                   onPressed: () {},
